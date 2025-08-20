@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
