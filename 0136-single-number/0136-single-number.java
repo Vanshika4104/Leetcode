@@ -1,7 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int n= nums.length;
-        int min=1;
         for(int i=0; i<n ; i++){
             int num= nums[i];
             int count=0;
