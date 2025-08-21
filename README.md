@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vanshika4104/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
@@ -46,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
