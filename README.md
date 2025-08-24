@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Vanshika4104/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
