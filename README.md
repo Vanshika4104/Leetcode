@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vanshika4104/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +71,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshika4104/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
