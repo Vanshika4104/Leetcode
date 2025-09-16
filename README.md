@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Vanshika4104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Vanshika4104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
