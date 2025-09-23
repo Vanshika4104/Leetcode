@@ -104,4 +104,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Vanshika4104/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
