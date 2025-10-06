@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika4104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vanshika4104/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika4104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vanshika4104/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -29,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vanshika4104/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika4104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
 | ------- |
