@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Vanshika4104/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Vanshika4104/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -38,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vanshika4104/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
@@ -65,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vanshika4104/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Vanshika4104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
