@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika4104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vanshika4104/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@
 | [0054-spiral-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
@@ -105,6 +107,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vanshika4104/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Vanshika4104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vanshika4104/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Vanshika4104/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -161,4 +164,12 @@
 | [1827-invalid-tweets](https://github.com/Vanshika4104/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vanshika4104/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Vanshika4104/Leetcode/tree/master/2087-confirmation-rate) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
