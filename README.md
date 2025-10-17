@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vanshika4104/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshika4104/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
