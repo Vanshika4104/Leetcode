@@ -30,9 +30,8 @@ class Solution {
         ListNode curr= dummy;
         for(int val : arr ){
             curr.next= new ListNode(val);
-            curr= curr.next;
+            curr = curr.next;
         }
-
         return dummy.next;
     }
 }
