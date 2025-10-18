@@ -12,12 +12,14 @@ class Solution {
     public void reorderList(ListNode head) {
         if(head== null) return ;
 
+        //middle of list using slow and fast pointer
         ListNode slow= head, fast= head;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
 
+        //reverse second half of list
         ListNode second=slow.next;
         slow.next=null;
         ListNode node= null;
@@ -29,6 +31,7 @@ class Solution {
             second = temp;
         }
 
+        //merge two halves
         ListNode first= head;
         second= node;
 
