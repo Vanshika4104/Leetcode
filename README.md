@@ -29,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vanshika4104/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Vanshika4104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 | [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Vanshika4104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
