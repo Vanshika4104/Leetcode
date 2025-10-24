@@ -191,6 +191,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -203,12 +204,15 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
