@@ -41,6 +41,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vanshika4104/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika4104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Vanshika4104/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Matrix
@@ -194,6 +195,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -217,5 +220,6 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
