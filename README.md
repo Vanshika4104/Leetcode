@@ -125,6 +125,7 @@
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vanshika4104/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Vanshika4104/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/Vanshika4104/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -197,6 +198,7 @@
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
@@ -213,6 +215,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -220,6 +223,7 @@
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +231,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -236,4 +241,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
