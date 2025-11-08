@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -211,6 +212,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -227,6 +229,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshika4104/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
