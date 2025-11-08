@@ -79,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vanshika4104/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vanshika4104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/Vanshika4104/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vanshika4104/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -253,6 +255,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -260,4 +263,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshika4104/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
