@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
