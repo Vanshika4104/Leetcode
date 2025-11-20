@@ -198,6 +198,7 @@
 | [1827-invalid-tweets](https://github.com/Vanshika4104/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vanshika4104/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Vanshika4104/Leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Vanshika4104/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Backtracking
 |  |
 | ------- |
