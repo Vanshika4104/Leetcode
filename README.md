@@ -38,6 +38,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Vanshika4104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -76,6 +77,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vanshika4104/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshika4104/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Vanshika4104/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -125,6 +127,7 @@
 | [0015-3sum](https://github.com/Vanshika4104/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vanshika4104/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vanshika4104/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika4104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
@@ -230,6 +233,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Vanshika4104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Vanshika4104/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshika4104/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vanshika4104/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
@@ -295,4 +299,5 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vanshika4104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
