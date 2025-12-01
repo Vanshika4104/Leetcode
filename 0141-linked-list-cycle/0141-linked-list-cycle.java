@@ -11,7 +11,7 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode temp=head;
+        ListNode temp= head;
 
         HashMap < ListNode, Integer> map= new HashMap<>();
 
@@ -23,6 +23,7 @@ public class Solution {
             map.put(temp,1);
             temp=temp.next;
         }
+
         return false;
     }
 }
