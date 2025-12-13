@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Vanshika4104/Leetcode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@
 | [0048-rotate-image](https://github.com/Vanshika4104/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vanshika4104/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vanshika4104/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Vanshika4104/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Vanshika4104/Leetcode/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Vanshika4104/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vanshika4104/Leetcode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vanshika4104/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
