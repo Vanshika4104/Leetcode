@@ -30,6 +30,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vanshika4104/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vanshika4104/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Vanshika4104/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -99,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/Vanshika4104/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vanshika4104/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Vanshika4104/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshika4104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vanshika4104/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Vanshika4104/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Counting
 |  |
