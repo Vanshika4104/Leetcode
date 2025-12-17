@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/Vanshika4104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vanshika4104/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanshika4104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vanshika4104/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Vanshika4104/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -84,6 +85,7 @@
 | [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshika4104/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vanshika4104/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Vanshika4104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Vanshika4104/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vanshika4104/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanshika4104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Vanshika4104/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
@@ -130,6 +133,7 @@
 | [0190-reverse-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vanshika4104/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanshika4104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vanshika4104/Leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
