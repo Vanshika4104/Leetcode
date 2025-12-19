@@ -1,14 +1,12 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if(intervals.length == 0) return new int[0][];
+        if(intervals.length==0) return new int[0][];
+        Arrays.sort(intervals, (a,b)-> Integer.compare(a[0], b[0]));
+        List<int[]> res= new ArrayList<>();
+        int[] current= intervals[0];
 
-        Arrays.sort(intervals, (a,b)-> Integer.compare(a[0],b[0]));
-        List <int []> res= new ArrayList<>();
-
-        int [] current= intervals[0];
-
-        for(int i=1; i< intervals.length ; i++){
-            if(intervals[i][0] <= current[1]){
+        for(int i=1; i<intervals.length;i++){
+            if(intervals[i][0]<= current[1]){
                 current[1]=Math.max(intervals[i][1], current[1]);
             }else{
                 res.add(current);
@@ -16,8 +14,6 @@ class Solution {
             }
         }
         res.add(current);
-
         return res.toArray(new int[res.size()][]);
-
     }
 }
