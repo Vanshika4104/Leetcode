@@ -20,6 +20,7 @@
 | [0079-word-search](https://github.com/Vanshika4104/Leetcode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika4104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshika4104/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Vanshika4104/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vanshika4104/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vanshika4104/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -101,6 +102,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vanshika4104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vanshika4104/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshika4104/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshika4104/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vanshika4104/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vanshika4104/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vanshika4104/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshika4104/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vanshika4104/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
