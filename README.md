@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Vanshika4104/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vanshika4104/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vanshika4104/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Vanshika4104/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vanshika4104/Leetcode/tree/master/0049-group-anagrams) |
@@ -86,6 +87,7 @@
 | [0015-3sum](https://github.com/Vanshika4104/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vanshika4104/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshika4104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vanshika4104/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Vanshika4104/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshika4104/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vanshika4104/Leetcode/tree/master/0148-sort-list) |
